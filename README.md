@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @YA30N
+- 👋 Hi, I’m Yasin
 - 👀 I’m interested in Software Engineering
 - 🌱 I’m currently learning new technlogy in software engineering industry
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
 
 <!---
 YA30N-Remix/YA30N-Remix is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
