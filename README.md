@@ -9,6 +9,10 @@ And also, I love to win with my teams.
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=YAS-SIIN&theme=vue)](https://git.io/streak-stats)
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YAS-SIIN&layout=compact&theme=vision-friendly)](https://github.com/anuraghazra/github-readme-stats)
+
+
 Languages and Tools:
 <div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" title="Csharp" alt="Csharp" width="40" height="40"/>&nbsp;
