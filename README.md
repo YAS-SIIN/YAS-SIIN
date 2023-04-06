@@ -1,6 +1,4 @@
 - 👋 Hi, I’m Yasin
-- 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning new technlogy in software engineering industry
 
 Software engineer with about ten years of experience in coding, testing, improving, and establishing systems. I have contributed to over 50 enterprise and large projects using C# .Net and ReactJS, Such as ERP applications and official applications. 
 I've been experienced with different tools, and I'm interested in creating scalable architecture for enterprise solutions.
