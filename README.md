@@ -7,6 +7,7 @@ On the other hand, I am calm and compassionate, which causes me to focus on my p
 
 And also, I love to win with my teams.
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=YAS-SIIN&theme=vue)](https://git.io/streak-stats)
 
 Languages and Tools:
 <div>
@@ -31,5 +32,3 @@ Languages and Tools:
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
 </div>
-### :fire: My Stats :
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
