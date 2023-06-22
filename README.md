@@ -3,9 +3,6 @@
 Software engineer with about ten years of experience in coding, testing, improving, and establishing systems. I have contributed to enterprise and large projects using C# .Net and ReactJS, Such as ERP applications and official applications. 
 I've been experienced with different tools, and I'm interested in creating scalable architecture for enterprise solutions.
 
-
-And also, I love to win with my teams.
-
 📫 How to reach me yasinasadnezhad.it@engineer.com
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YAS-SIIN&theme=vue&show_icons=true)
