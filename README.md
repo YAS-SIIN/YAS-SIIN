@@ -1,9 +1,8 @@
 - 👋 Hi, I’m Yasin
 
-Software engineer with about ten years of experience in coding, testing, improving, and establishing systems. I have contributed to over 50 enterprise and large projects using C# .Net and ReactJS, Such as ERP applications and official applications. 
+Software engineer with about ten years of experience in coding, testing, improving, and establishing systems. I have contributed to enterprise and large projects using C# .Net and ReactJS, Such as ERP applications and official applications. 
 I've been experienced with different tools, and I'm interested in creating scalable architecture for enterprise solutions.
-I enjoy being challenged and engaging with projects that require me to work outside my comfort and knowledge set and continue learning new technologies and improving my skills. All of these are important to me, and of course, I care about the success of the company that I'm going to cooperate with.
-On the other hand, I am calm and compassionate, which causes me to focus on my projects and my team and design better. 
+
 
 And also, I love to win with my teams.
 
