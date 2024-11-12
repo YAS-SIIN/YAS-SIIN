@@ -11,9 +11,11 @@ I'm interested in creating scalable architecture for enterprise solutions.
 
 
 Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,visualstudio,angular,docker,vscode,js,ts,html,CSS,jquery,linux)](https://skillicons.dev)
+
 <div>
   
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,visualstudio,angular,react,redux,docker,vscode,js,ts,html,css,bootstrap,jquery,redis,java,linux)](https://skillicons.dev)
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-plain.svg" title="Csharp" alt="Csharp" width="40" height="40" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/csharp-plain.svg" title="DotNet" alt="DotNet" width="40" height="40"/>
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/DotNet.svg" title="DotNet" alt="DotNet" width="40" height="40"/>&nbsp;
