@@ -11,7 +11,7 @@ I'm interested in creating scalable architecture for enterprise solutions.
 
 
 Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=cs,js,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,visualstudio,angular,docker,vscode,js,ts,html,CSS,jquery,linux)](https://skillicons.dev)
 <div>
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-plain.svg" title="Csharp" alt="Csharp" width="40" height="40" />&nbsp;
