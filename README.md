@@ -14,7 +14,7 @@ Languages and Tools:
 
 <div>
   
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,visualstudio,angular,react,redux,docker,vscode,js,ts,html,css,bootstrap,jquery,redis,redux,java,spring,mongodb,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,visualstudio,angular,react,redux,docker,vscode,js,ts,html,css,bootstrap,jquery,java,spring,redis,postgres,redux,mongodb,nodejs,linux)](https://skillicons.dev)
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-plain.svg" title="Csharp" alt="Csharp" width="40" height="40" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/csharp-plain.svg" title="DotNet" alt="DotNet" width="40" height="40"/>
