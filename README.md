@@ -14,7 +14,7 @@ Languages and Tools:
 
 <div align="center">
       
-  [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,visualstudio,angular,react,redux,npm,docker,vscode,js,ts,html,css,bootstrap,jquery,java,spring,redis,postgres,redux,mongodb,nodejs,linux)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,visualstudio,mysql,angular,react,redux,npm,docker,vscode,js,ts,html,css,bootstrap,jquery,java,spring,redis,postgres,redux,mongodb,nodejs,linux)](https://skillicons.dev)
 
   
 </div>
