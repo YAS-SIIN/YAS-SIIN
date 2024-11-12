@@ -14,9 +14,8 @@ Languages and Tools:
 
 <div>
   <p align="center">
-  <a href="https://skillicons.dev">
     [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,visualstudio,angular,react,redux,docker,vscode,js,ts,html,css,bootstrap,jquery,java,spring,redis,postgres,redux,mongodb,nodejs,linux)](https://skillicons.dev)
-  </a>
+
 </p>
   
 
