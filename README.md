@@ -5,11 +5,7 @@ I'm interested in creating scalable architecture for enterprise solutions.
 
 📫 How to reach me yasinasadnezhad.it@engineer.com
 
-<p align="left">
-<a href="https://linkedin.com/in/yas-sin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yas-sin/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/8623376" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="8623376" height="30" width="40" /></a>
-</p>
-
+ 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YAS-SIIN&theme=vue&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YAS-SIIN&layout=compact&theme=vision-friendly)](https://github.com/anuraghazra/github-readme-stats)
