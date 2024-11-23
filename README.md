@@ -9,6 +9,7 @@ I'm interested in creating scalable architecture for enterprise solutions.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YAS-SIIN&layout=compact&theme=vision-friendly)](https://github.com/anuraghazra/github-readme-stats)
 
+[![](https://visitcount.itsvg.in/api?id=YAS-SIIN&label=My%20profile%20viewers&color=3&icon=5&pretty=false)](https://visitcount.itsvg.in)
 
 Languages and Tools:
 
