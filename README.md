@@ -10,7 +10,7 @@ I'm interested in creating scalable architecture for enterprise solutions.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YAS-SIIN&layout=compact&theme=vision-friendly)](https://github.com/anuraghazra/github-readme-stats)
 
-![](https://komarev.com/ghpvc/?username=YAS-SIIN&style=flat)
+[![Yasin Asadnezhad profile views](https://u8views.com/api/v1/github/profiles/49972383/views/day-week-month-total-count.svg)](https://u8views.com/github/YAS-SIIN)
 
 Languages and Tools:
 
