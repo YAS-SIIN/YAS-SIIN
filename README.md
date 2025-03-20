@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Yasin
 
-Software engineer with about 10 years of experience in coding, testing, improving, and establishing systems. I have successfully contributed to enterprise and large projects. I am skilled in C#, .Net, Entity Framework, SQL Server, React, TypeScript, Angular, Java, and various tools and technologies for developing and deploying big project solutions. 
+Software engineer with about 10 years of experience in coding, testing, improving, and establishing systems. I have successfully contributed to enterprise and large projects. I am skilled in C#, .Net, Entity Framework, SQL Server, SharePoint, React, TypeScript, Angular, Java, and various tools and technologies for developing and deploying big project solutions. 
 I'm interested in creating scalable architecture for enterprise solutions.
 
 📫 How to reach me yasinasadnezhad.it@engineer.com
